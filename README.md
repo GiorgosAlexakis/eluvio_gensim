@@ -1,1 +1,1 @@
-Eluvio challenge ,unsupervised clustering with gensim.Open the notebook in collab to see the visualization.
+Eluvio challenge ,unsupervised clustering with gensim.Open the notebooks in collab to see the visualizations properly.
